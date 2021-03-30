@@ -1,6 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NUISTGY&repo=github-readme-stats" />
+<a href="https://github.com/NUISTGY/Deep-High-Resolution-Representation-Learning-for-Cross-Resolution-Person-Re-identification">
+  <img align="center" src="https://github.com/NUISTGY/Deep-High-Resolution-Representation-Learning-for-Cross-Resolution-Person-Re-identification" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NUISTGY&repo=convoychat" />
+<a href="https://github.com/NUISTGY/Person-re-identification-based-on-HRNet">
+  <img align="center" src="https://github.com/NUISTGY/Person-re-identification-based-on-HRNet" />
 </a>
