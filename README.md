@@ -1,7 +1,6 @@
-<div style="text-align:center;">
-  
-### Hi there 👋 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NUISTGY&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![github stats](https://github-readme-stats.vercel.app/api?username=NUISTGY&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&line_height=40)
-
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NUISTGY&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NUISTGY&repo=convoychat" />
+</a>
