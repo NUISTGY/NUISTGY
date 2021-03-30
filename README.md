@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NUISTGY&repo=github-readme-stats)](https://github.com/NUISTGY/Deep-High-Resolution-Representation-Learning-for-Cross-Resolution-Person-Re-identification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NUISTGY&repo=Deep-High-Resolution-Representation-Learning-for-Cross-Resolution-Person-Re-identification)](https://github.com/NUISTGY/Deep-High-Resolution-Representation-Learning-for-Cross-Resolution-Person-Re-identification)
