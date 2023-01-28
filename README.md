@@ -1,4 +1,4 @@
-![image](https://github.com/NUISTGY/NUISTGY/asc.gif)
+![image](https://github.com/NUISTGY/NUISTGY/blob/main/asc.gif)
 <center>
 
 **<font size=6>Hi 👋 Yu's here.</font>**
