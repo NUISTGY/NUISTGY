@@ -12,4 +12,9 @@
 
 ---
 
+
+<center>
+
 ![skills](https://skillicons.dev/icons?i=bash,css,docker,java,electron,express,git,github,html,js,linux,md,mongodb,nextjs,nodejs,postgres,spring,prisma,py,raspberrypi,react,redis,regex,sass,stackoverflow,ts,visualstudio,vscode,vue,workers)
+
+  </center>
