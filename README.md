@@ -9,7 +9,6 @@
 - 📝 Use Java Spring backend, Vue.JS or React for frontend
 - 🌟 Make something to improve the world
 - 💕 Opensource
-- 💓 I love my Dalia 🇨🇳🇸🇦
 
 ---
 
