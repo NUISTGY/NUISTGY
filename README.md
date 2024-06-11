@@ -8,7 +8,6 @@
 - 👨‍💻 Normal postgraduate boi
 - 📝 Use Java Spring backend, Vue.JS or React for frontend
 - 💥 Make something to improve the world!
-- 🇦🇪 Mera, my eyes~
 - 💕 Opensource
 
 ---
